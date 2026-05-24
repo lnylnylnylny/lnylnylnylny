@@ -54,12 +54,6 @@
           <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
         </p>
       </td>
-      <!-- 오른쪽: 깃허브 스탯 -->
-      <td align="center" width="40%">
-        <img src="https://github-readme-stats.vercel.app/api?username=lnylnylnylny&show_icons=true&theme=radical" height="180px"/>
-        <br/><br/>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lnylnylnylny&layout=compact&theme=radical" height="130px"/>
-      </td>
     </tr>
   </table>
 </div>
